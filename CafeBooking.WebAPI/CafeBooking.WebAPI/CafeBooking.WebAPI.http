@@ -1,0 +1,6 @@
+@CafeBooking.WebAPI_HostAddress = http://localhost:5155
+
+GET {{CafeBooking.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
